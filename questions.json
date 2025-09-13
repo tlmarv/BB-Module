@@ -152,8 +152,8 @@
     "9",
     "10"
   ],
-  "correctAnswer": 1,
-  "explanation": "The correct answer is: 7. The Glasgow Coma Scale (GCS) assesses a patient's level of consciousness based on eye opening, verbal response, and motor response. Each category has a set of possible scores: Eye Opening (E): 2 – to pain. Verbal Response (V): 2 – incomprehensible sounds. Motor Response (M): 3 – extension to pain (decerebrate posturing). Adding these gives a total GCS score of 2 (E) + 2 (V) + 3 (M) = 7. This score indicates a severe head injury and poor neurologic function. Incorrect answer explanations: 6 – Incorrect. This would require a motor response of 2 (no movement) or another lower category score. 8 – Incorrect. This would require a slightly better verbal or motor response. 9 or 10 – Incorrect. These would suggest higher levels of responsiveness, such as obeying commands or producing coherent speech, which this patient does not demonstrate."
+  "correctAnswer": 0,
+  "explanation": "The correct answer is: 6. The Glasgow Coma Scale (GCS) assesses a patient's level of consciousness based on eye opening, verbal response, and motor response. Each category has a set of possible scores: Eye Opening (E): 2 – to pain. Verbal Response (V): 2 – incomprehensible sounds. Motor Response (M): 2 – extension to pain (decerebrate posturing). Adding these gives a total GCS score of 2 (E) + 2 (V) + 2 (M) = 6. This score indicates a severe head injury and poor neurologic function. Incorrect answer explanations: 7 – Incorrect. 8 – Incorrect. This would require a slightly better verbal or motor response. 9 or 10 – Incorrect. These would suggest higher levels of responsiveness, such as obeying commands or producing coherent speech, which this patient does not demonstrate."
 },
 {
   "question": "A 65-year-old man presents with slowness of movement, resting tremor, and muscle rigidity. His neurologist suspects Parkinson disease. Further evaluation reveals degeneration of dopaminergic neurons that normally facilitate movement through the basal ganglia circuitry. Which of the following best describes the effect of dopamine on the direct and indirect pathways in the basal ganglia?",
